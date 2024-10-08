@@ -11,3 +11,5 @@ It is important to highlight that this database has undergone a meticulous manua
 The first version of the database is currently available in this repository in the file 'NIS_list_database_v1.csv.' This version was used and evaluated for its effectiveness compared to conventional databases in the article by Zarcero et al. 2023. The results demonstrated a higher NIS detection rate with significantly higher match percentages compared to conventional databases.
 
 Furthermore, you will also find the updated version in the file 'NIS_list_database_v2.csv' in the repository.
+
+The latest available version is in FASTA format in the file 'NIS_list_database_v3' and in BLAST format with the nin, nhr, nsq, ndb, not, nto, ntf, and njs files. This latest update includes an update of the NIS and a user-friendly format for taxonomic assignment using the BLAST program.
